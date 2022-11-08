@@ -84,7 +84,7 @@ import pandas as pd
 url = 'https://raw.githubusercontent.com/Kendy619/Mobile-Price-Classification-KNN/main/test.csv'
 base_Testes = pd.read_csv(url,sep=',', encoding = 'latin1').values
 print("----------------------------")
-print("Dados dos Pacientes - TESTES")
+print("Dados dos celulares - TESTES")
 print("----------------------------")
 print(base_Testes)
 print("---------------------------------")
